@@ -1,5 +1,3 @@
-Note that this whole branch is deprecated. all further development is going on here: https://github.com/JsSucks/BetterDiscordApp
-
 # BetterDiscordApp
 
 # If you have issues then join the BD Discord server: [Here](https://discord.gg/0Tmfo5ZbORCRqbAd)
@@ -88,7 +86,7 @@ Add your server there and it will appear in the list!
 
 The MIT License (MIT)
 
-Copyright (c) 2015-present Jiiks | [Jiiks.net](https://jiiks.net)
+Copyright (c) 2015-present Maksim Rabtsevich
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
